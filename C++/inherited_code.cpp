@@ -10,7 +10,7 @@ Each of the  subsequent lines describes a test case as a single username string,
 Output Format
 
 You are not responsible for directly printing anything to stdout. If your code is correct, the locked stub code in your editor will print either Valid (if the username is valid), Invalid (if the username is invalid), or Too short: n (where  is the length of the too-short username) on a new line for each test case.*/
-
+//code starts
 
 #include <iostream>
 #include <string>
