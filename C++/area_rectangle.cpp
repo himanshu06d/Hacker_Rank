@@ -1,6 +1,6 @@
 /*AREA OF RECTANGLE WITH THE HELP OF CLASS*/
 
-
+//code:-
 
 
 
