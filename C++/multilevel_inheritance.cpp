@@ -1,4 +1,5 @@
 /*MULTI LEVEL INHERITANCE*/
+//code
 #include <cmath>
 #include <cstdio>
 #include <vector>
