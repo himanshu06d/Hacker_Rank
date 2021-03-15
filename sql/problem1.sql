@@ -3,3 +3,5 @@ FROM CITY
 WHERE
     COUNTRYCODE = 'USA'
     AND POPULATION > 100000;
+
+/* using of select */
