@@ -46,4 +46,5 @@ int main()
         cout << Traits<Fruit>::name(index2) << "\n";
     }
 }
+//complete code
 
