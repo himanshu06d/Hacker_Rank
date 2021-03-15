@@ -17,7 +17,8 @@ using namespace std;
 /*
 Enter code for class Student here.
 Read statement for specification.
-*/
+
+define*/
 class Student{
     private:
     int ag, std;
