@@ -10,7 +10,7 @@ In the second line print the string produced by concatenating a and  b (a+b).
 In the third line print two strings separated by a space,  and .  and  are the same as  and , respectively, except that their first characters are swapped.*/
 
 
-
+//code
 #include <iostream>
 #include <string>
 using namespace std;
