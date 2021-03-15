@@ -12,7 +12,9 @@ Output Format
 
 Output will be of a single line, consisting of age, first_name, last_name and standard, each separated by one white space.
 
+
 P.S.: I/O will be handled by HackerRank.*/
+//code
 #include <cmath>
 #include <cstdio>
 #include <vector>
