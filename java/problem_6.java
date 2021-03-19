@@ -17,9 +17,9 @@ public class Solution {
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
         scanner.close();
-        for (int i=1;i<=10;i++)
+        for (int i=1;i<=10;i++) //using for loop
         {
-            System.out.println(N+" "+"x"+" "+i+" "+"="+" "+N*i);
+            System.out.println(N+" "+"x"+" "+i+" "+"="+" "+N*i); //printing the table 
         }
     }
 }
