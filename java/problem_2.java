@@ -3,8 +3,8 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        int a = scan.nextInt();
+        Scanner scan = new Scanner(System.in); //creation of object
+        int a = scan.nextInt(); //insert the input taken by user to int a 
          int b = scan.nextInt();// Complete this line
          int c = scan.nextInt();// Complete this line
 
