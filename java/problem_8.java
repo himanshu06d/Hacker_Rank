@@ -15,7 +15,7 @@ class Solution{
         for(int i=0;i<t;i++)
         {
 
-            try
+            try //using try catch block 
             {
                 long x=sc.nextLong();
                 System.out.println(x+" can be fitted in:");
