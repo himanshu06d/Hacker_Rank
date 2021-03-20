@@ -11,7 +11,7 @@ class Solution{
             int n = in.nextInt();
             int c = a;
             for(int j=0;j<n;j++){
-                c += Math.pow(2, j)*b;
+                c += Math.pow(2, j)*b; //printing series
                 System.out.printf("%s ",c);
             }
             System.out.println();
