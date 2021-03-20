@@ -10,7 +10,7 @@ public class Solution {
         Scanner in=new Scanner(System.in);
         String a;
         int i=1;
-       while(in.hasNext())
+       while(in.hasNext()) //while loop taking string and printing them with seriel number
            {
            a=in.nextLine();
            System.out.println(i+" "+a);
